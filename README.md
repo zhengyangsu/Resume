@@ -5,7 +5,7 @@ Contact Email: bGVvbi5zdUBob3RtYWlsLmNvbQ== (base64 encoding)
 
 ## Summary
 
-Look development and texture artist with 9+ years in film and animation VFX, now a Build TD at Double Negative. Builds production-ready PBR assets in Mari, Substance Painter, Maya and Katana, and scripts in Python/PyMEL and documents new and common procedures for the wider team. Looking for Technical Artist roles that bridge art and engineering.
+Experienced Artist with a demonstrated history of working in the motion pictures and animation industry. CG generalist specialized in Look Development and Texture Painting. Strong passion in sculpting and drawing.
 
 ## Technical Skills
 
