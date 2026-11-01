@@ -1,6 +1,6 @@
 # Leon Su
 
-[LinkedIn](https://www.linkedin.com/in/leon-su/) · [ArtStation](https://leonsu.artstation.com/) · [GitHub](https://github.com/zhengyangsu) · [IMDb](https://www.imdb.com/name/nm9303597/)..
+[LinkedIn](https://www.linkedin.com/in/leon-su/) · [ArtStation](https://leonsu.artstation.com/) · [GitHub](https://github.com/zhengyangsu) · [IMDb](https://www.imdb.com/name/nm9303597/)\
 Contact Email: bGVvbi5zdUBob3RtYWlsLmNvbQ== (base64 encoding)
 
 ## Summary
