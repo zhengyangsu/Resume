@@ -25,7 +25,7 @@ Oct 2021 – Present | Nov 2017 – Jul 2018
 - Create textures from references and concept designs.
 - Document new and common procedures in the Confluence knowledge base for the wider team.
 
-**Selected credits:** Dune: Part Two (2024), Shazam! Fury of the Gods (2023), The Last of Us (2023)
+*Selected credits:* Dune: Part Two (2024), Shazam! Fury of the Gods (2023), The Last of Us (2023)
 
 **Asset Artist · Goldtooth**
 
