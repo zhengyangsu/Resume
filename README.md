@@ -25,7 +25,7 @@ Oct 2021 – Present | Nov 2017 – Jul 2018
 - Create textures from references and concept designs.
 - Document new and common procedures in the Confluence knowledge base for the wider team.
 
-*Selected credits:* Dune: Part Two (2024), Shazam! Fury of the Gods (2023), The Last of Us (2023)
+Selected credits: Dune: Part Two (2024), Shazam! Fury of the Gods (2023), The Last of Us (2023)
 
 **Asset Artist · Goldtooth**
 
@@ -40,7 +40,7 @@ Oct 2019 – Jan 2020
 
 - Created textures and look development from photo references.
 
-**Selected credits:** Godzilla vs. Kong (2021)
+Selected credits: Godzilla vs. Kong (2021)
 
 **Surfacing Artist · Mainframe**
 
@@ -56,7 +56,7 @@ Aug 2018 – Feb 2019 | Jul 2017 – Oct 2017
 - Painted textures and developed looks for assets, and contributed modelling.
 - Set up sequence light rigs and optimized scenes.
 
-**Selected credits:** Midway (2019), Siren (2018–2019), Pegasus (2019), Goosebumps 2: Haunted Halloween (2018, lighting), Sky Hunter (2017)
+Selected credits: Midway (2019), Siren (2018–2019), Pegasus (2019), Goosebumps 2: Haunted Halloween (2018, lighting), Sky Hunter (2017)
 
 **Render TD · Moving Picture Company**
 
